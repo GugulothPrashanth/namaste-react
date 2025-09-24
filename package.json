@@ -1,0 +1,32 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "This is a Full React Cource",
+  "keywords": [
+    "React",
+    "Namaste",
+    "React",
+    "Prashaanth"
+  ],
+  "homepage": "https://github.com/GugulothPrashanth/namaste-react#readme",
+  "bugs": {
+    "url": "https://github.com/GugulothPrashanth/namaste-react/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GugulothPrashanth/namaste-react.git"
+  },
+  "license": "ISC",
+  "author": "Prashanth Guguloth",
+  "type": "commonjs",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.0"
+  },
+  "dependencies": {
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  }
+}
